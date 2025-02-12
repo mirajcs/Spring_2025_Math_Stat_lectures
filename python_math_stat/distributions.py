@@ -1,7 +1,9 @@
+import numpy as np
 import matplotlib.pyplot as plt
 from math import comb
+import scipy.stats as stats
 
-def miraj_binomial_distribution(n, p):
+def miraj_binomial_distribution_pmf(n, p):
     """
     Plots the binomial distribution for a given number of trials (n) and probability (p).
     
@@ -24,4 +26,28 @@ def miraj_binomial_distribution(n, p):
     plt.xticks(k_values)
     plt.xticks(rotation=90)
     plt.grid(axis="y", linestyle="--", alpha=0.1)
+    plt.show()
+
+
+
+def plot_geometric_pmf(p, k_max=15):
+    """
+    Plots the Probability Mass Function (PMF) of a geometric distribution.
+    
+    Parameters:
+    - p: Probability of success
+    - k_max: Maximum number of trials to display (default is 15)
+    """
+
+
+def miraj_geometric_distribution_pmf(p, k_max=15):
+    k_values = np.arange(1, k_max + 1)  # Values from 1 to k_max
+    pmf_values = stats.geom.pmf(k_values, p)
+
+    plt.figure(figsize=(7, 5))
+    plt.stem(k_values, pmf_values)
+    plt.xlabel('k (Number of Trials)')
+    plt.ylabel('P(X=k)')
+    plt.title(f'Geometric PMF (p={p})')
+    #plt.grid()
     plt.show()

@@ -1,4 +1,5 @@
-from binomial_distribution import miraj_binomial_distribution 
+from distributions import miraj_binomial_distribution_pmf 
+from distributions import miraj_geometric_distribution_pmf
 
 
-mbd=miraj_binomial_distribution(10,0.8)
+mbd=miraj_geometric_distribution_pmf(0.11,50)

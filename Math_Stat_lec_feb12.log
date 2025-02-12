@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  12 FEB 2025 12:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  12 FEB 2025 14:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -601,14 +601,7 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count346
 \l__pdf_internal_box=\box81
-) (./Math_Stat_lec_feb12.aux
-
-LaTeX Warning: Label `fig:binomial' multiply defined.
-
-
-LaTeX Warning: Label `fig:binomial' multiply defined.
-
-)
+) (./Math_Stat_lec_feb12.aux)
 \openout1 = `Math_Stat_lec_feb12.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -794,12 +787,7 @@ File: Figures/Figure_2.png Graphic file (type png)
 <use Figures/Figure_2.png>
 Package pdftex.def Info: Figures/Figure_2.png  used on input line 54.
 (pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:binomial}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.54 \end{frame}
-                 [9
+ [9
 
  <./Figures/Figure_2.png>]
 File: Figures/Figure_2.png Graphic file (type png)
@@ -809,17 +797,12 @@ Package pdftex.def Info: Figures/Figure_2.png  used on input line 54.
  [10
 
 ]
-<Figures/Figure_3.png, id=285, 462.528pt x 346.896pt>
+<Figures/Figure_3.png, id=286, 462.528pt x 346.896pt>
 File: Figures/Figure_3.png Graphic file (type png)
 <use Figures/Figure_3.png>
 Package pdftex.def Info: Figures/Figure_3.png  used on input line 64.
 (pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{fig:binomial}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.64 \end{frame}
-                 [11
+ [11
 
  <./Figures/Figure_3.png>]
 File: Figures/Figure_3.png Graphic file (type png)
@@ -827,6 +810,36 @@ File: Figures/Figure_3.png Graphic file (type png)
 Package pdftex.def Info: Figures/Figure_3.png  used on input line 64.
 (pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
  [12
+
+] [13
+
+] [14
+
+] [15
+
+] [16
+
+]
+<Figures/Figure_4.png, id=441, 505.89pt x 361.35pt>
+File: Figures/Figure_4.png Graphic file (type png)
+<use Figures/Figure_4.png>
+Package pdftex.def Info: Figures/Figure_4.png  used on input line 90.
+(pdftex.def)             Requested size: 153.64493pt x 109.74567pt.
+ [17
+
+ <./Figures/Figure_4.png>]
+File: Figures/Figure_4.png Graphic file (type png)
+<use Figures/Figure_4.png>
+Package pdftex.def Info: Figures/Figure_4.png  used on input line 90.
+(pdftex.def)             Requested size: 153.64493pt x 109.74567pt.
+ [18
+
+]
+File: Figures/Figure_4.png Graphic file (type png)
+<use Figures/Figure_4.png>
+Package pdftex.def Info: Figures/Figure_4.png  used on input line 90.
+(pdftex.def)             Requested size: 153.64493pt x 109.74567pt.
+ [19
 
 ]
 \tf@nav=\write6
@@ -843,26 +856,22 @@ Package pdftex.def Info: Figures/Figure_3.png  used on input line 64.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `Math_Stat_lec_feb12.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25234 strings out of 474116
- 510385 string characters out of 5743682
+ 25293 strings out of 474116
+ 511556 string characters out of 5743682
  1934187 words of memory out of 5000000
- 47074 multiletter control sequences out of 15000+600000
- 568907 words of font info for 75 fonts, out of 8000000 for 9000
+ 47116 multiletter control sequences out of 15000+600000
+ 569214 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,466b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Math_Stat_lec_feb12.pdf (12 pages, 166286 bytes).
+Output written on Math_Stat_lec_feb12.pdf (19 pages, 198938 bytes).
 PDF statistics:
- 386 PDF objects out of 1000 (max. 8388607)
- 336 compressed objects within 4 object streams
- 26 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 575 PDF objects out of 1000 (max. 8388607)
+ 514 compressed objects within 6 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
