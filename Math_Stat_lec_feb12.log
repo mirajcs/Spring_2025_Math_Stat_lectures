@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  12 FEB 2025 11:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  12 FEB 2025 12:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -601,7 +601,14 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count346
 \l__pdf_internal_box=\box81
-) (./Math_Stat_lec_feb12.aux)
+) (./Math_Stat_lec_feb12.aux
+
+LaTeX Warning: Label `fig:binomial' multiply defined.
+
+
+LaTeX Warning: Label `fig:binomial' multiply defined.
+
+)
 \openout1 = `Math_Stat_lec_feb12.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -744,7 +751,19 @@ Dictionary: translator-numbers-dictionary, Language: English
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./Math_Stat_lec_feb12.nav) [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 34.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+) [2
 
 ] [3
 
@@ -755,40 +774,59 @@ Dictionary: translator-theorem-dictionary, Language: English
 ] [6
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 33.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-) [7
+<Figures/Figure_1.png, id=176, 462.528pt x 346.896pt>
+File: Figures/Figure_1.png Graphic file (type png)
+<use Figures/Figure_1.png>
+Package pdftex.def Info: Figures/Figure_1.png  used on input line 44.
+(pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
+ [7
 
-] [8
+ <./Figures/Figure_1.png>]
+File: Figures/Figure_1.png Graphic file (type png)
+<use Figures/Figure_1.png>
+Package pdftex.def Info: Figures/Figure_1.png  used on input line 44.
+(pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
+ [8
 
-] [9
+]
+<Figures/Figure_2.png, id=232, 462.528pt x 346.896pt>
+File: Figures/Figure_2.png Graphic file (type png)
+<use Figures/Figure_2.png>
+Package pdftex.def Info: Figures/Figure_2.png  used on input line 54.
+(pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
 
-] [10
+pdfTeX warning (ext4): destination with the same identifier (name{fig:binomial}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.54 \end{frame}
+                 [9
 
-] [11
+ <./Figures/Figure_2.png>]
+File: Figures/Figure_2.png Graphic file (type png)
+<use Figures/Figure_2.png>
+Package pdftex.def Info: Figures/Figure_2.png  used on input line 54.
+(pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
+ [10
 
-] [12
+]
+<Figures/Figure_3.png, id=285, 462.528pt x 346.896pt>
+File: Figures/Figure_3.png Graphic file (type png)
+<use Figures/Figure_3.png>
+Package pdftex.def Info: Figures/Figure_3.png  used on input line 64.
+(pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
 
-] [13
+pdfTeX warning (ext4): destination with the same identifier (name{fig:binomial}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.64 \end{frame}
+                 [11
 
-] [14
-
-] [15
-
-] [16
-
-] [17
-
-] [18
+ <./Figures/Figure_3.png>]
+File: Figures/Figure_3.png Graphic file (type png)
+<use Figures/Figure_3.png>
+Package pdftex.def Info: Figures/Figure_3.png  used on input line 64.
+(pdftex.def)             Requested size: 153.64493pt x 115.23296pt.
+ [12
 
 ]
 \tf@nav=\write6
@@ -805,22 +843,26 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `Math_Stat_lec_feb12.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25248 strings out of 474116
- 510970 string characters out of 5743682
- 1939187 words of memory out of 5000000
- 47079 multiletter control sequences out of 15000+600000
- 565420 words of font info for 62 fonts, out of 8000000 for 9000
+ 25234 strings out of 474116
+ 510385 string characters out of 5743682
+ 1934187 words of memory out of 5000000
+ 47074 multiletter control sequences out of 15000+600000
+ 568907 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,466b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Math_Stat_lec_feb12.pdf (18 pages, 138521 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Math_Stat_lec_feb12.pdf (12 pages, 166286 bytes).
 PDF statistics:
- 539 PDF objects out of 1000 (max. 8388607)
- 486 compressed objects within 5 object streams
- 37 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 386 PDF objects out of 1000 (max. 8388607)
+ 336 compressed objects within 4 object streams
+ 26 named destinations out of 1000 (max. 500000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

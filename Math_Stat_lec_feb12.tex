@@ -16,79 +16,52 @@
     \titlepage
 \end{frame}
 
-\begin{frame}
-    Refer the operation table. \\ \pause
-    What is closure property? \\ \pause
-    Identity\\ \pause
-    Inverse\\ \pause
-    Commutative or Abelian
+\begin{frame}{The Binomial Distribution}
+    Suppose the \(n\) independent experiments are performed, each resulting in a success with probability \(p\). Let \(X\) be the number of successes in the \(n\) experiments.\\
+    \vspace{0.1in}
+    \pause
+    The probaility that \(p(k)\) can be found in the following way:\\
+    \vspace{0.1in}\pause
+    Any particular sequence of \(k\) successes and \(n-k\) failures has probability \(p^k(1-p)^{n-k}\) from the multiplication principle. \\
+    \pause
+    \vspace{0.1in}
+    The number of such sequences is \(\binom{n}{k}\).\\\pause
+    \vspace{0.1in}
+    Thus \[
+    P(X=k)=p(k)=\binom{n}{k}p^k(1-p)^{n-k}
+    \]
 
 \end{frame}
 
-\begin{frame}
-    \begin{block}{The Dihedral Group}
-        The dihedral group of order \(2n\) is often called the group of symmetries of a regular \(
-        n\)-gon. 
-    \end{block}
+\begin{frame}{Example}
+    Let \(n=10\) and \(p=0.1\). \pause
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\textwidth]{Figures/Figure_1.png}
+        \caption{The Binomial Distribution for \(n=10\) and \(p=0.1\)}
+        \label{fig:binomial}
+    \end{figure}
 \end{frame}
 
-\begin{frame}{Groups}
-    Let \(G\) be a set \(A\) binary operation on \(G\) is a function that assigns each ordered pair of elements of \(G\) an element of \(G\). \pause
-
-    \begin{block}{Definition}
-        Let G be a set together with a binary operation that assigns to each ordered pair \((a,b)\) of elements of \(G\) an elemnts in \(G\) denoited by \(ab\). The \(G\) is a group if the following three properties are satisfied. \pause
-        \begin{enumerate}
-            \item \textbf{Associativity}: \((ab) c= a (bc)\) for all \(a,b \in G\).
-            \item \textbf{Identity}: There is an element \(e\) (called identity) in \(G\) such that \(ae=ea=a\) for all \(a \in G\).
-            \item \textbf{Inverses}: For each element \(a \in G\), there is an element \(b\in G\) such that \(ab=ba=e\).
-        \end{enumerate}
-        If for any \(a,b \in G\), \(ab=ba\) then group is an abelian group. 
-    \end{block}
+\begin{frame}{Example}
+    Let \(n=10\) and \(p=0.5\). \pause
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\textwidth]{Figures/Figure_2.png}
+        \caption{The Binomial Distribution for \(n=10\) and \(p=0.5\)}
+        \label{fig:binomial}
+    \end{figure}
 \end{frame}
 
-\begin{frame}{Examples}
-    \begin{enumerate}
-        \item The set of integers \(\mathbb{Z}\), the set of rational numbers \(\mathbb{Q}\), and the set of real numbers \(\mathbb{R}\), are all groups under ordinary addition.\pause
-        \item The subset \(\{1,-1, i, -i\}\) of the complex numbers under multiplication is a group. \pause
-        \item The set \(S\) of positive irrational numbers together with 1 under multiplication is now a group.\pause
-        \item A rectangular array of the form \(\begin{bmatrix}
-            a & b\\
-            c & d
-        \end{bmatrix}\) is called a \(2\times 2\) matrix. The set of all \(2\times 2\) matrices with real entries is a group under componentwise addition. \[
-        \begin{bmatrix}
-            a_1 & b_1\\
-            c_1 & d_1
-        \end{bmatrix} + \begin{bmatrix}
-            a_2 & b_2\\
-            c_2 & d_2
-        \end{bmatrix} = \begin{bmatrix}
-            a_1 + a_2 & b_1 + b_2\\
-            c_1 + c_2 & d_1 + d_2
-        \end{bmatrix}
-        \]
-    \end{enumerate}
+\begin{frame}{Example}
+    Let \(n=10\) and \(p=0.8\). \pause
+    \begin{figure}
+        \centering
+        \includegraphics[width=0.5\textwidth]{Figures/Figure_3.png}
+        \caption{The Binomial Distribution for \(n=10\) and \(p=0.8\)}
+        \label{fig:binomial}
+    \end{figure}
 \end{frame}
-
-\begin{frame}{Examples Cont.}
-    \begin{enumerate}
-        \setcounter{enumi}{4}
-        \item The set \(\mathbb{Z}_n =\{0,1, \dots, n-1\}\) for \(n \geq 1\) is a group under addition modulo \(n\). This group is ususally reffered to as the group of integers modulo \(n\). \pause
-        \item The set \(\mathbb{R}^*\) of non-zero real numbers is a group under ordinary multiplication. The identity is 1 and the inverse of \(a\) is \(1/a\). \pause
-        \item The set of all invertible \(n\times n\) matrices with real entries is a group under matrix multiplication. This group is denoted by \(GL(n,\mathbb{R})\). 
-        \[
-        GL(2, \mathbb{R}) = \left\{ \begin{bmatrix}
-            a & b\\
-            c & d
-        \end{bmatrix} \mid ad-bc \neq 0 \text{ for } a,b,c,d \in \mathbb{R}\right\}
-        \]\pause
-        What happens when \(ad-bc=0\)?
-    \end{enumerate}
-    
-\end{frame}
-
-
-
-
 
 
 \end{document}
