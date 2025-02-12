@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1739392589.10836 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/Math_Stat_lec_feb12.tex" "Math_Stat_lec_feb12.pdf" "Math_Stat_lec_feb12" 1739392590.10999 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/Math_Stat_lec_feb12.tex" 1739392588.89097 3205 f5dc04821895e3095cbe82c3c2fbe929 ""
+["pdflatex"] 1739393604.23862 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/Math_Stat_lec_feb12.tex" "Math_Stat_lec_feb12.pdf" "Math_Stat_lec_feb12" 1739393605.22289 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/Math_Stat_lec_feb12.tex" 1739393602.96169 3350 791c2bb1d23df9b16b1bc6a85b02e449 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -216,10 +216,10 @@
   "Figures/Figure_2.png" 1739383918.91534 19898 76b1ade386d8fa8216c0b5b9a8ca2a2e ""
   "Figures/Figure_3.png" 1739384021.77681 21288 8bb42271430384ba88eb6fab241af6b7 ""
   "Figures/Figure_4.png" 1739392507.45544 18403 7157144d073d09fdfe978f6882c85e4a ""
-  "Math_Stat_lec_feb12.aux" 1739392590.04553 1760 47393abd79f4891d628745842c82092f "pdflatex"
-  "Math_Stat_lec_feb12.nav" 1739392590.04607 853 c56373db01fa271e876d9d6f5c61f32e "pdflatex"
-  "Math_Stat_lec_feb12.out" 1739392589.6338 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Math_Stat_lec_feb12.tex" 1739392588.89097 3205 f5dc04821895e3095cbe82c3c2fbe929 ""
+  "Math_Stat_lec_feb12.aux" 1739393605.15951 1888 6caaf07192ca4c26f7088c854d42dcac "pdflatex"
+  "Math_Stat_lec_feb12.nav" 1739393605.16026 945 c0619428c0bb3924e6ca19a570ac898c "pdflatex"
+  "Math_Stat_lec_feb12.out" 1739393604.73408 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Math_Stat_lec_feb12.tex" 1739393602.96169 3350 791c2bb1d23df9b16b1bc6a85b02e449 ""
   (generated)
   "Math_Stat_lec_feb12.aux"
   "Math_Stat_lec_feb12.log"
