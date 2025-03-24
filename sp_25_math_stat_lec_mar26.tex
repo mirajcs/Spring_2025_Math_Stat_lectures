@@ -1,0 +1,70 @@
+\documentclass{beamer}
+
+\usepackage{amsmath, amssymb}
+\usepackage{tikz-cd}
+\usepackage{xcolor}
+\usepackage{graphicx}
+
+\title{MAT434: Theory of Mathematical Statistics}
+\author{\textbf{Miraj Samarakkody}}
+\institute{Tougaloo College}
+\date{03/24/2025}
+
+\begin{document}
+
+\begin{frame}
+    \titlepage
+\end{frame}
+
+
+
+\begin{frame}{}
+    \begin{center}
+        \Huge{2.3 Functions of a Random Variable}
+    \end{center}
+
+\end{frame}
+
+
+
+
+
+\begin{frame}{Proposition A}
+\begin{block}{Proposition A}    
+If \(X \sim N(\mu, \sigma^2)\) and \(Y=aX+b\), then \(Y\sim N(a\mu +b, a^2\sigma^2)\)
+\end{block}
+\end{frame}
+
+\begin{frame}{Applications of Proposition A}
+Consider the random variable \[Z=\dfrac{X-\mu}{\sigma}\]\\ \pause 
+
+
+\begin{itemize}
+    \item We can see that \(Z\) follows a standard normal distribution. \\\pause
+
+
+    \item Also we can see that probabilities for general normal random variables can be evaluated in terms of probabilities fro standard normal random variables. 
+\end{itemize} 
+\end{frame}
+
+
+
+
+\begin{frame}{Example B}
+Let \(X \sim N (\mu, \sigma^2)\), and find the probability that \(X\) is less than \(\sigma\) away from \(\mu\); that is, find \(P(|X-\mu|< \sigma)\).\\ \pause
+\vspace{0.2in}
+
+Thus, a normal random variable is within 1 standard deviation of its mean with probability \(0.68\)
+\end{frame}
+
+\begin{frame}{Example C}
+    Find the density of \(X=Z^2\), where \(Z \sim N(0,1)\). \\
+    \vspace{0.2in}
+    
+\end{frame}
+
+
+
+
+
+\end{document}
