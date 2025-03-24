@@ -1,0 +1,80 @@
+\documentclass{beamer}
+
+\usepackage{amsmath, amssymb}
+\usepackage{tikz-cd}
+\usepackage{xcolor}
+\usepackage{graphicx}
+
+\title{MAT434: Theory of Mathematical Statistics}
+\author{\textbf{Miraj Samarakkody}}
+\institute{Tougaloo College}
+\date{03/24/2025}
+
+\begin{document}
+
+\begin{frame}
+    \titlepage
+\end{frame}
+
+\begin{frame}{The Normal Distribution}
+The density function of the normal distribution can be written as \[f(x)= \dfrac{1}{\sigma \sqrt{2 \pi}}exp\left[-\dfrac{(x-\mu)^2}{2\sigma^2}\right]\]
+\end{frame}
+
+\begin{frame}{}
+    \begin{center}
+        \Huge{2.3 Functions of a Random Variable}
+    \end{center}
+
+\end{frame}
+
+\begin{frame}{Function of a Random Variable}
+\begin{itemize}
+    \item Suppose that a random variable \(X\) has a density function \(f(x)\). \pause
+    \item Assume that we need to find the density function of \(Y=g(X)\). \pause
+    \item To illustrate techniques for solving such a problem, we first develop some useful facts about the normal distribution. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Function of a Random variable}
+Suppose \(X \sim N(\mu, \sigma^2) \) and that \(Y=aX+b\), where \(a>0\). The commulative distribution function of Y is \[F_Y(y)=F_X\left(\dfrac{y-b }{a}\right)\] \pause\\
+ Thus \[f_Y (y)=\dfrac{1}{a}f_X \left(\dfrac{y-b}{a}\right)\] \pause\\
+ Upto this point, we haven't used the assumption of normality. So this result holds for a general continuous random varaible, provided that \(F_X\) is appropriately differentiable. 
+\end{frame}
+
+\begin{frame}{Function of a Random Varaible}
+If \(f_X\) is a normal density function with parameters \(\mu\) and \(\sigma\) \[f_Y (y) = \dfrac{1}{a \sigma \sqrt{2 \pi}}exp\left[-\dfrac{1}{2}\left(\dfrac{y-b-a \mu}{a\sigma}\right)^2\right]\]\pause
+We can see that \(Y\) follows a normal distribution with parameters \(a \mu +b\) and \(a \sigma\). \\ \pause
+The case \(a<0\) can be analyzed similarly.   
+\end{frame}
+
+
+\begin{frame}{Proposition A}
+\begin{block}{Proposition A}    
+If \(X \sim N(\mu, \sigma^2)\) and \(Y=aX+b\), then \(Y\sim N(a\mu +b, a^2\sigma^2)\)
+\end{block}
+\end{frame}
+
+\begin{frame}{Applications of Proposition A}
+Consider the random variable \[Z=\dfrac{X-\mu}{\sigma}\]\\ \pause 
+
+
+\begin{itemize}
+    \item We can see that \(Z\) follows a standard normal distribution. \\\pause
+
+
+    \item Also we can see that probabilities for general normal random variables can be evaluated in terms of probabilities fro standard normal random variables. 
+\end{itemize} 
+\end{frame}
+
+
+\begin{frame}{Example A}
+Scores on a certain standardized test, IQ scorse, are approximately normally distributed with mean \(\mu =100\) and standard deviation \(\sigma=15\). Here we are referring to the distribution of scores over a very large population, and we approximate that discrete cumulative distribution function by a normal continuous commulative distribution function. An individual is selected at random. What is the probability that his score \(X\) satisfies \(120 <X< 130\)?   
+\end{frame}
+
+
+
+
+
+
+
+\end{document}
