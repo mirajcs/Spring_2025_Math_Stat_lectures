@@ -1,0 +1,109 @@
+\documentclass[12pt]{exam}
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\usepackage{makecell}
+\usepackage{minibox}
+\usepackage{multirow}
+\usepackage{lastpage}
+\usepackage{amsmath}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{datetime}
+\usepackage{amsmath}
+\usepackage{mathtools}
+
+
+\pagestyle{headandfoot}
+
+\newdateformat{monthyeardate}{%
+  \monthname[\THEMONTH], \THEYEAR}
+%\newdateformat{\monthyeardate}{\monthname[\THEMONTH], \THEYEAR}
+
+
+
+
+\newcommand{\paper}[5]{
+    \setcounter{page}{1}
+    
+    \begin{minipage}{\textwidth}
+    \Large{\textbf{Tougaloo College}}\\
+    %\vspace{0.1in}\\  
+   % Bachelor of the Science of Engineering \\
+    %Academic Year #4\\
+    %\vspace{0.1in}\\
+    \textbf{#2}\\
+    \textbf{#5 - #3}\\
+    \end{minipage}
+    \hfill
+   % \begin{minipage}{3in}
+      %  \centering
+      %  \includegraphics[scale=0.23]{logo.jpg}
+    %\end{minipage}\\
+    %\hfill
+   % \vspace{0.1in}\\
+        \begin{minipage}{6in}
+            \textbf{\hspace{0.25in}Due Date : #1}
+        \end{minipage}
+    
+    \vspace{0.1in}
+    \rule[1ex]{\textwidth}{2pt}
+    }
+
+
+
+\extrafootheight{.5in}
+\cfoot{Page ~\thepage ~of ~\numpages}
+
+
+\printanswers
+
+
+\marginpointname{ \points}
+\pointsinrightmargin
+\pointpoints{ Point}{ Points}
+\setlength{\rightpointsmargin}{3cm}
+\pointsdroppedatright
+\addpoints
+%\qformat{\textbf{Question \thequestion} \hfill}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+%\paper{duration}{Course}{Semester}{academic year}{Examination}
+\paper{03//2025}{MAT434 - Theory of Mathematical Statistics}{Spring, 2025}{}{Howework 04}
+
+\section*{2.5 Problems}
+\begin{questions}
+
+
+
+\question[]  Let \(X\) be a normal random variable with \(\mu =5\) and \(\sigma =10\). Find:
+\begin{parts}
+    \part[] \(P(X>10)\)
+    \begin{solution}
+        \(P(X>10)=1-P(X \leq 10)=1- \Phi(0.5)=0.3085\)
+    \end{solution}
+    \part[] \(P(-20 <X< 15)\)
+    \begin{solution}
+        \(\Phi(1)-\Phi(-2.5)=\Phi(1)-1+\Phi(2.5)=0.8351\)
+    \end{solution}
+    \part[] the value of \(x\) such that \(P(X>x)=0.065\)
+    \begin{solution}
+        \(z=1.52\). Therefore \(x=20.2\)
+    \end{solution}
+\end{parts}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{questions}
+\end{document}
+
+
