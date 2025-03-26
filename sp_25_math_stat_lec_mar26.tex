@@ -59,10 +59,52 @@ Thus, a normal random variable is within 1 standard deviation of its mean with p
 
 \begin{frame}{Example C}
     Find the density of \(X=Z^2\), where \(Z \sim N(0,1)\). \\
+    \pause
     \vspace{0.2in}
+    The density function is same as the gamma density with \(\alpha = \lambda = \dfrac{1}{2}\). (\(\Gamma(1/2)= \sqrt{\pi}\)).\\
+    This density is also called the \textbf{chi-square density} with 1 degree of freedom. 
+\end{frame}
+
+
+\begin{frame}{Example D}
+Let \(U\) be a uniform random variable on \([0,1]\) and let \(V=1/U\). Find the density of \(V\). 
+\end{frame}
+
+
+\begin{frame}{Proposition B}
+    \begin{block}{Proposition}
+        Let \(X\) be a continous random variable with density \(f(x)\) and let \(Y=g(X)\) where \(g\) is a differentiable, strictly monotonic function on some interval \(I\). Suppose that \(f(x)=0\) if \(x\) is not in \(I\). Then \(Y\) has the density function \[
+        f_Y(y) = f_X(g^{-1}(y))\left|\dfrac{d}{dy}g^{-1}(y)\right|
+        \] for \(y\) such that \(y=g(x)\) for some \(x\), and \(f_Y(y)=0\) if \(y \ne g(x)\) for any \(x\) in \(I\). Here \(g^{-1}\) is the inverse function of \(g\); that is, \(g^{-1}(y)=x\) if \(y=g(x)\). 
+    \end{block}
     
 \end{frame}
 
+\begin{frame}
+    \frametitle{Proposition C}
+    \begin{block}{Proposition}
+        Let \(Z=F(X)\); then \(Z\) has a uniform distribution of \([0,1]\).
+    \end{block}
+    \begin{block}{Proof:}
+        
+    \end{block}
+
+
+    
+
+\end{frame}
+
+\begin{frame}
+    \frametitle{Proposition D}
+
+    \begin{block}{Proposition}
+        Let \(U\) be uniform on \([0,1]\), and let \(X = F^{-1}(U)\). Then the cdf of \(X\) is \(F\). 
+    \end{block}
+    \begin{block}{Proof:}
+        
+    \end{block}
+
+\end{frame}
 
 
 
