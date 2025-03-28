@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  27 MAR 2025 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  28 MAR 2025 11:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,6 +762,73 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 
 ] [4
 
+] [5
+
+]
+Overfull \vbox (2.35614pt too high) detected at line 83
+ []
+
+[6
+
+]
+Overfull \vbox (2.35614pt too high) detected at line 83
+ []
+
+[7
+
+]
+Overfull \vbox (2.35614pt too high) detected at line 83
+ []
+
+[8
+
+]
+Overfull \vbox (2.35614pt too high) detected at line 83
+ []
+
+[9
+
+]
+Overfull \vbox (2.35614pt too high) detected at line 83
+ []
+
+[10
+
+]
+<Figures/Figure_5.png, id=278, 353.32pt x 248.93pt>
+File: Figures/Figure_5.png Graphic file (type png)
+<use Figures/Figure_5.png>
+Package pdftex.def Info: Figures/Figure_5.png  used on input line 91.
+(pdftex.def)             Requested size: 176.65956pt x 124.46469pt.
+ [11
+
+ <./Figures/Figure_5.png>]
+File: Figures/Figure_5.png Graphic file (type png)
+<use Figures/Figure_5.png>
+Package pdftex.def Info: Figures/Figure_5.png  used on input line 91.
+(pdftex.def)             Requested size: 176.65956pt x 124.46469pt.
+ [12
+
+]
+<Figures/Figure_6.png, id=332, 343.2825pt x 251.94125pt>
+File: Figures/Figure_6.png Graphic file (type png)
+<use Figures/Figure_6.png>
+Package pdftex.def Info: Figures/Figure_6.png  used on input line 99.
+(pdftex.def)             Requested size: 171.64082pt x 125.9703pt.
+ [13
+
+ <./Figures/Figure_6.png>] [14
+
+] [15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
 ]
 \tf@nav=\write6
 \openout6 = `sp_25_math_stat_lec_mar28.nav'.
@@ -781,18 +848,18 @@ Package rerunfilecheck Info: File `sp_25_math_stat_lec_mar28.out' has not change
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25174 strings out of 474116
- 509512 string characters out of 5743682
- 1933187 words of memory out of 5000000
- 47032 multiletter control sequences out of 15000+600000
+ 25274 strings out of 474116
+ 511490 string characters out of 5743682
+ 1936187 words of memory out of 5000000
+ 47102 multiletter control sequences out of 15000+600000
  565726 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,123p,472b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on sp_25_math_stat_lec_mar28.pdf (4 pages, 83439 bytes).
+ 128i,14n,123p,472b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on sp_25_math_stat_lec_mar28.pdf (19 pages, 161905 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
- 9 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 576 PDF objects out of 1000 (max. 8388607)
+ 515 compressed objects within 6 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
