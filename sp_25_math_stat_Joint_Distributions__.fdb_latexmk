@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1743970197.94966 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_lec_apr04.tex" "sp_25_math_stat_lec_apr04.pdf" "sp_25_math_stat_lec_apr04" 1743970198.80472 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_lec_apr04.tex" 1743867709.74433 2852 64bc8a7ad4e3d466a3d1f393cb692528 ""
+["pdflatex"] 1743970508.65633 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__.tex" "sp_25_math_stat_Joint_Distributions__.pdf" "sp_25_math_stat_Joint_Distributions__" 1743970509.4398 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__.tex" 1743867709.74433 2852 64bc8a7ad4e3d466a3d1f393cb692528 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -220,16 +220,16 @@
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "Figures/fig_7.png" 1743447459.63431 43239 22f57736ce0befa52b70d4a2612d3640 ""
   "Figures/fig_9.png" 1743774123.40579 97846 967562f1db2a82577a7ff1cca4ddcc41 ""
-  "sp_25_math_stat_lec_apr04.aux" 1743970198.73632 1722 20e91bfaba50c3806d05ddd6b6b8b67e "pdflatex"
-  "sp_25_math_stat_lec_apr04.nav" 1743970198.73698 1109 07396102f9d82bf25877ba7d82798efb "pdflatex"
-  "sp_25_math_stat_lec_apr04.out" 1743970198.44392 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sp_25_math_stat_lec_apr04.tex" 1743867709.74433 2852 64bc8a7ad4e3d466a3d1f393cb692528 ""
+  "sp_25_math_stat_Joint_Distributions__.aux" 1743970509.38349 1722 20e91bfaba50c3806d05ddd6b6b8b67e "pdflatex"
+  "sp_25_math_stat_Joint_Distributions__.nav" 1743970509.3842 1109 07396102f9d82bf25877ba7d82798efb "pdflatex"
+  "sp_25_math_stat_Joint_Distributions__.out" 1743970509.11401 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sp_25_math_stat_Joint_Distributions__.tex" 1743867709.74433 2852 64bc8a7ad4e3d466a3d1f393cb692528 ""
   (generated)
-  "sp_25_math_stat_lec_apr04.aux"
-  "sp_25_math_stat_lec_apr04.log"
-  "sp_25_math_stat_lec_apr04.nav"
-  "sp_25_math_stat_lec_apr04.out"
-  "sp_25_math_stat_lec_apr04.pdf"
-  "sp_25_math_stat_lec_apr04.snm"
-  "sp_25_math_stat_lec_apr04.toc"
+  "sp_25_math_stat_Joint_Distributions__.aux"
+  "sp_25_math_stat_Joint_Distributions__.log"
+  "sp_25_math_stat_Joint_Distributions__.nav"
+  "sp_25_math_stat_Joint_Distributions__.out"
+  "sp_25_math_stat_Joint_Distributions__.pdf"
+  "sp_25_math_stat_Joint_Distributions__.snm"
+  "sp_25_math_stat_Joint_Distributions__.toc"
   (rewritten before read)

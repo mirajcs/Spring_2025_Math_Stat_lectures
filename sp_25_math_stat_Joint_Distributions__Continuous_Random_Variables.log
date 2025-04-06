@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  6 APR 2025 15:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  6 APR 2025 15:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_lec_apr04.tex
-(/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_lec_apr04.tex
+**/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.tex
+(/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/beamer/beamer.cls
@@ -603,8 +603,8 @@ Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count346
 \l__pdf_internal_box=\box81
-) (./sp_25_math_stat_lec_apr04.aux)
-\openout1 = `sp_25_math_stat_lec_apr04.aux'.
+) (./sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.aux)
+\openout1 = `sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
@@ -679,9 +679,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 14.
- (./sp_25_math_stat_lec_apr04.out) (./sp_25_math_stat_lec_apr04.out)
+ (./sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.out) (./sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.out)
 \@outlinefile=\write5
-\openout5 = `sp_25_math_stat_lec_apr04.out'.
+\openout5 = `sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 14.
@@ -744,7 +744,7 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./sp_25_math_stat_lec_apr04.nav) [1
+) (./sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.nav) [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
@@ -794,32 +794,32 @@ Overfull \vbox (64.93654pt too high) detected at line 69
 
 ]
 \tf@nav=\write6
-\openout6 = `sp_25_math_stat_lec_apr04.nav'.
+\openout6 = `sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.nav'.
 
 \tf@toc=\write7
-\openout7 = `sp_25_math_stat_lec_apr04.toc'.
+\openout7 = `sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.toc'.
 
 \tf@snm=\write8
-\openout8 = `sp_25_math_stat_lec_apr04.snm'.
+\openout8 = `sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.snm'.
 
- (./sp_25_math_stat_lec_apr04.aux)
+ (./sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `sp_25_math_stat_lec_apr04.out' has not changed.
+Package rerunfilecheck Info: File `sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  25322 strings out of 474116
- 512844 string characters out of 5743682
+ 513780 string characters out of 5743682
  1934187 words of memory out of 5000000
  47161 multiletter control sequences out of 15000+600000
  569876 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,123p,472b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,14n,123p,511b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on sp_25_math_stat_lec_apr04.pdf (10 pages, 280718 bytes).
+Output written on sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.pdf (10 pages, 280718 bytes).
 PDF statistics:
  349 PDF objects out of 1000 (max. 8388607)
  297 compressed objects within 3 object streams
