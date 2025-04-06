@@ -1,6 +1,14 @@
 # Fdb version 4
-["pdflatex"] 1743970547.8345 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.tex" "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.pdf" "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables" 1743970548.61009 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.tex" 1743867709.74433 2852 64bc8a7ad4e3d466a3d1f393cb692528 ""
+["bibtex sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables"] 1743971208.34857 "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.aux" "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.bbl" "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables" 1743971209.33381 0
+  "./references.bib" 1743970925.10088 213 4c596a17fa4fd5d90d342cab54f6ae14 ""
+  "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
+  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.aux" 1743971209.14527 1696 06c47cb2e09883f4aefb356a6693943c "pdflatex"
+  (generated)
+  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.bbl"
+  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.blg"
+  (rewritten before read)
+["pdflatex"] 1743971208.41926 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.tex" "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.pdf" "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables" 1743971209.3339 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.tex" 1743971206.25383 2528 9dabba1a7ccf9473f343cde9689a7da7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -220,10 +228,11 @@
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "Figures/fig_7.png" 1743447459.63431 43239 22f57736ce0befa52b70d4a2612d3640 ""
   "Figures/fig_9.png" 1743774123.40579 97846 967562f1db2a82577a7ff1cca4ddcc41 ""
-  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.aux" 1743970548.5517 1722 20e91bfaba50c3806d05ddd6b6b8b67e "pdflatex"
-  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.nav" 1743970548.55234 1109 07396102f9d82bf25877ba7d82798efb "pdflatex"
-  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.out" 1743970548.28725 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.tex" 1743867709.74433 2852 64bc8a7ad4e3d466a3d1f393cb692528 ""
+  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.aux" 1743971209.14527 1696 06c47cb2e09883f4aefb356a6693943c "pdflatex"
+  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.bbl" 1743971208.41675 189 e723c7048104bd1e8e960fcd200a6ec8 "bibtex sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables"
+  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.nav" 1743971209.14596 1011 83c4ff004b77303d878240d0bcc95e05 "pdflatex"
+  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.out" 1743971208.88094 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.tex" 1743971206.25383 2528 9dabba1a7ccf9473f343cde9689a7da7 ""
   (generated)
   "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.aux"
   "sp_25_math_stat_Joint_Distributions__Continuous_Random_Variables.log"
