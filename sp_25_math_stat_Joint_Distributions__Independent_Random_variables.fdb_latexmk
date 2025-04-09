@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex sp_25_math_stat_Joint_Distributions__Independent_Random_variables"] 1743970950.55194 "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.aux" "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.bbl" "sp_25_math_stat_Joint_Distributions__Independent_Random_variables" 1743970951.41102 0
+["bibtex sp_25_math_stat_Joint_Distributions__Independent_Random_variables"] 1744214629.72861 "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.aux" "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.bbl" "sp_25_math_stat_Joint_Distributions__Independent_Random_variables" 1744214630.6433 0
   "./references.bib" 1743970925.10088 213 4c596a17fa4fd5d90d342cab54f6ae14 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.aux" 1743970951.2369 952 4f72d64a6578be1a8bed70e417d1976c "pdflatex"
+  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.aux" 1744214630.4609 1324 195e727f26ca63b9352b903fc1c1e072 "pdflatex"
   (generated)
   "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.bbl"
   "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.blg"
   (rewritten before read)
-["pdflatex"] 1743970950.61895 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Independent_Random_variables.tex" "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.pdf" "sp_25_math_stat_Joint_Distributions__Independent_Random_variables" 1743970951.41112 0
-  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Independent_Random_variables.tex" 1743970948.7284 1074 a9712f70812e60e883ac2fec92714f53 ""
+["pdflatex"] 1744214629.79742 "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Independent_Random_variables.tex" "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.pdf" "sp_25_math_stat_Joint_Distributions__Independent_Random_variables" 1744214630.6434 0
+  "/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Independent_Random_variables.tex" 1744214628.66213 1989 d927a74047cac790560b9f0a1bf5dac6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -31,6 +31,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm" 1336178347 1696 aaa5bbd1f47f001247d42218ce371101 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm" 1336178347 1676 fb6c6a335484692abff897d6e8965829 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1248133631 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb" 1248133631 24457 5cbb7bdf209d5d1ce9892a9b80a307cc ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb" 1248133631 24393 3b7eb51a67a0a62aec5849271bdb9c2e ""
@@ -38,6 +39,9 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb" 1248133631 28902 2f5c04fd2884d1878057baa5aad22765 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb" 1248133631 25150 e0d09798d232ab9d00c5c0a8df6cc22d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb" 1248133631 25168 33771b85f45c82138dd7745db7092d1c ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1248133631 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb" 1248133631 31764 459c573c03a4949a528c2cc7f557e217 ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -217,11 +221,11 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1716247663.99401 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1716247625 8221423 e6ab1330403aec1cb0ee8a146a56153c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.aux" 1743970951.2369 952 4f72d64a6578be1a8bed70e417d1976c "pdflatex"
-  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.bbl" 1743970950.61663 189 e723c7048104bd1e8e960fcd200a6ec8 "bibtex sp_25_math_stat_Joint_Distributions__Independent_Random_variables"
-  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.nav" 1743970951.2375 483 2eb1cf7e247973bd2380314bee32ad57 "pdflatex"
-  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.out" 1743970951.09587 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.tex" 1743970948.7284 1074 a9712f70812e60e883ac2fec92714f53 ""
+  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.aux" 1744214630.4609 1324 195e727f26ca63b9352b903fc1c1e072 "pdflatex"
+  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.bbl" 1744214629.79486 189 e723c7048104bd1e8e960fcd200a6ec8 "bibtex sp_25_math_stat_Joint_Distributions__Independent_Random_variables"
+  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.nav" 1744214630.46156 747 6236a599a41b7c0004e9c62ec35224f4 "pdflatex"
+  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.out" 1744214630.25951 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.tex" 1744214628.66213 1989 d927a74047cac790560b9f0a1bf5dac6 ""
   (generated)
   "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.aux"
   "sp_25_math_stat_Joint_Distributions__Independent_Random_variables.log"
