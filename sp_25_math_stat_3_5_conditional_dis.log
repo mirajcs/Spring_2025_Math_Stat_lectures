@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  11 APR 2025 12:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.20)  11 APR 2025 12:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Independent_Random_variables.tex
-(/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_Joint_Distributions__Independent_Random_variables.tex
+**/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_3_5_conditional_dis.tex
+(/Users/mirajsamarakkody/Documents/GitHub/Spring_2025_Math_Stat_lectures/sp_25_math_stat_3_5_conditional_dis.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/beamer/beamer.cls
@@ -608,8 +608,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count346
 \l__pdf_internal_box=\box81
-) (./sp_25_math_stat_Joint_Distributions__Independent_Random_variables.aux)
-\openout1 = `sp_25_math_stat_Joint_Distributions__Independent_Random_variables.aux'.
+) (./sp_25_math_stat_3_5_conditional_dis.aux)
+\openout1 = `sp_25_math_stat_3_5_conditional_dis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -684,9 +684,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 15.
- (./sp_25_math_stat_Joint_Distributions__Independent_Random_variables.out) (./sp_25_math_stat_Joint_Distributions__Independent_Random_variables.out)
+ (./sp_25_math_stat_3_5_conditional_dis.out) (./sp_25_math_stat_3_5_conditional_dis.out)
 \@outlinefile=\write5
-\openout5 = `sp_25_math_stat_Joint_Distributions__Independent_Random_variables.out'.
+\openout5 = `sp_25_math_stat_3_5_conditional_dis.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 15.
@@ -749,77 +749,65 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./sp_25_math_stat_Joint_Distributions__Independent_Random_variables.nav) [1
+) (./sp_25_math_stat_3_5_conditional_dis.nav) [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 36.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 29.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) [2
 
-] [3
-
-] [4
-
-] [5
-
-] [6
-
-] [7
-
 ]
-<Figures/fig_10.png, id=206, 433.62pt x 433.62pt>
-File: Figures/fig_10.png Graphic file (type png)
-<use Figures/fig_10.png>
-Package pdftex.def Info: Figures/fig_10.png  used on input line 61.
-(pdftex.def)             Requested size: 216.80946pt x 216.80946pt.
+<Figures/fig_11.png, id=76, 262.9825pt x 119.44624pt>
+File: Figures/fig_11.png Graphic file (type png)
+<use Figures/fig_11.png>
+Package pdftex.def Info: Figures/fig_11.png  used on input line 38.
+(pdftex.def)             Requested size: 184.08649pt x 83.61179pt.
+ [3
 
-Overfull \vbox (0.86552pt too high) detected at line 61
- []
+ <./Figures/fig_11.png>] [4
 
-[8
-
- <./Figures/fig_10.png>] (./sp_25_math_stat_Joint_Distributions__Independent_Random_variables.bbl) [9
+] (./sp_25_math_stat_3_5_conditional_dis.bbl) [5
 
  </usr/local/texlive/2024/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
-\openout6 = `sp_25_math_stat_Joint_Distributions__Independent_Random_variables.nav'.
+\openout6 = `sp_25_math_stat_3_5_conditional_dis.nav'.
 
 \tf@toc=\write7
-\openout7 = `sp_25_math_stat_Joint_Distributions__Independent_Random_variables.toc'.
+\openout7 = `sp_25_math_stat_3_5_conditional_dis.toc'.
 
 \tf@snm=\write8
-\openout8 = `sp_25_math_stat_Joint_Distributions__Independent_Random_variables.snm'.
+\openout8 = `sp_25_math_stat_3_5_conditional_dis.snm'.
 
- (./sp_25_math_stat_Joint_Distributions__Independent_Random_variables.aux)
+ (./sp_25_math_stat_3_5_conditional_dis.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `sp_25_math_stat_Joint_Distributions__Independent_Random_variables.out' has not changed.
+Package rerunfilecheck Info: File `sp_25_math_stat_3_5_conditional_dis.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25321 strings out of 474116
- 514854 string characters out of 5743682
- 1935187 words of memory out of 5000000
- 47161 multiletter control sequences out of 15000+600000
- 565776 words of font info for 63 fonts, out of 8000000 for 9000
+ 25250 strings out of 474116
+ 512156 string characters out of 5743682
+ 1934187 words of memory out of 5000000
+ 47098 multiletter control sequences out of 15000+600000
+ 565469 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,123p,512b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on sp_25_math_stat_Joint_Distributions__Independent_Random_variables.pdf (9 pages, 150241 bytes).
+ 128i,14n,123p,482b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on sp_25_math_stat_3_5_conditional_dis.pdf (5 pages, 94574 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 273 compressed objects within 3 object streams
- 20 named destinations out of 1000 (max. 500000)
+ 201 PDF objects out of 1000 (max. 8388607)
+ 164 compressed objects within 2 object streams
+ 12 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
